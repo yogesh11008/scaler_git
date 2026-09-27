@@ -6,3 +6,4 @@ Keep one note per line.
 Everything above this line is part of the original project notes.
 End of original notes.
 Local update: work in progress before the pull.
+Update on main after branching
